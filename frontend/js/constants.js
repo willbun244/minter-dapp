@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Little Danny NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Little Danny NFT Project is a collection of Pixel Art images that aim to appeal to Pixel Art lovers and minters.';
+=======
+const contractAddress = "0xF1e68620Cc3eFC8ed181c77Fd90314Da3C6E909E"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
+
+const welcome_h1 = "Welcome to the LittleKittyCat NFT Project!!";
+const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_p = 'The LittleKittyCat NFT Project is a collection of Cats that aim to appeal to pet lovers and minters.';
+>>>>>>> 13be2a602d4938a08d589eb5327bcb59856e7972
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
